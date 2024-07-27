@@ -31,7 +31,7 @@ st.markdown("""
         text-overflow: ellipsis;
     }
     .selected {
-        border: 4px solid solid rgba(255, 255, 255, 0.7);;
+        border: 4px solid rgba(214, 93, 174, 0.8);
     }
 </style>
 """, unsafe_allow_html=True)
